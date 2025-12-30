@@ -17,6 +17,11 @@ How has Netflix's content evolved over the years?
 What ratings are most frequent?
 
 🧰 Tools & Technologies
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-FF6C37?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-0078D6?style=for-the-badge)
+
 Power BI – for data visualization and dashboard creation
 
 Microsoft Excel / CSV – for data handling
